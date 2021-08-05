@@ -1,4 +1,4 @@
-# useFetch
+# useFetch Hook
 
 ```
     const url = 'url_endpoint';
